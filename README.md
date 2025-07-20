@@ -20,7 +20,7 @@
 
 **🎓 B.Tech Computer Science & Engineering '26** @ Manipal University Jaipur (GPA: 8.15/10)  
 **☁️ Minor in Cloud Computing** - Advanced cloud architecture expertise  
-**🌟 General Secretary** - IEEE GRSS MUJ (500+ members, 40% growth achieved)  
+**🌟 General Secretary** - IEEE GRSS MUJ 2024 (500+ members, 40% growth achieved)  
 **💻 8+ Years Programming Journey** (Started with Java in 8th grade)  
 **🚀 15+ Live Production Applications** serving real users globally
 
@@ -53,7 +53,7 @@ I specialize in building **AI-powered solutions** and **enterprise-grade web app
 
 **🚀 Impact Delivered:**
 - **AI-Powered Revolution**: Built GPT-4 presentation generator reducing creation time by **92%** (2 hours → 25 minutes)
-- **Full-Stack Performance**: Engineered React + FastAPI system serving **500+ users** with <150ms response times
+- **Full-Stack Performance**: Engineered React + FastAPI system serving **users** with <5 s response times
 - **Enterprise Deployment**: Successfully deployed on AWS ECS with production-grade scalability and monitoring
 - **User Experience Excellence**: Delivered seamless AI workflows with intuitive interfaces and robust error handling
 
@@ -135,9 +135,9 @@ I specialize in building **AI-powered solutions** and **enterprise-grade web app
 #### 🏢 [TalentHub - AI Recruitment Platform](https://hire.utkarsh.world/)
 **🎯 Revolutionizing hiring with enterprise-grade AI**
 - **60% faster hiring** process optimization
-- **95% accurate** resume parsing with GPT-4o-mini
+- **95% accurate** resume parsing with GPT-4o-mini and Gemini 2.5 Flash
 - **Enterprise security** with Row-Level Security
-- **500+ applications** processed successfully
+- **applications** processed successfully
 - **Tech**: Next.js 15, TypeScript, Supabase, OpenAI
 
 </td>
@@ -214,7 +214,7 @@ I specialize in building **AI-powered solutions** and **enterprise-grade web app
 - **AI-powered mood tracking** with insights
 - **End-to-end encryption** security
 - **Real-time sync** across devices
-- **50+ active users** with <200ms loads
+- **5+ active users** with <200ms loads
 - **Tech**: React 18+, TypeScript, Supabase
 
 </td>
@@ -261,7 +261,7 @@ I specialize in building **AI-powered solutions** and **enterprise-grade web app
 | **🎯 Leadership Excellence** | **💻 Technical Mastery** | **🏅 Industry Recognition** |
 |:------------------------:|:---------------------:|:------------------------:|
 | **General Secretary** IEEE GRSS MUJ | **8+ Years** Programming Journey | **AWS Academy** Cloud Foundations |
-| **40% membership growth** (2 years) | **15+ Live Apps** in production | **CCNA Security** & Automation |
+| **40% membership growth** (3 years) | **15+ Live Apps** in production | **CCNA Security** & Automation |
 | **500+ members** under leadership | **95% AI accuracy** achievements | **Cisco Python Essentials** |
 | **12+ Technical Events** organized | **Sub-150ms** response optimization | **NPTEL** Data Structures & Algorithms |
 
@@ -272,14 +272,13 @@ I specialize in building **AI-powered solutions** and **enterprise-grade web app
 - **📈 95% accuracy achieved** in AI/ML models deployed at InLighnX (17% improvement from baseline)
 - **⚡ 40% performance boost** in cloud deployments through AWS optimization (800ms→480ms)
 - **🎯 96% accuracy delivered** in computer vision systems with 10,000+ image datasets
-- **👥 500+ registered users** actively engaging with developed applications
+- **👥 Registered users** actively engaging with developed applications
 - **🏆 40% membership growth** achieved through strategic IEEE GRSS leadership
 
-### 🏅 **Competition & Hackathon Excellence**
-- **🏆 Smart India Hackathon 2024** - Developed functional prototype in 36-hour sprint
-- **💡 Hackerstreet 2024** - Built innovative solution under intense time pressure
-- **🎯 Multiple Hackathon Participation** - Consistent delivery of working demos and solutions
-
+🏅 **Hackathon & Competition Experience**
+- **Smart India Hackathon 2024**: Contributed to the development of a functional project prototype.
+- **Hackerstreet 2024**: Collaborated with a team to build a technical solution under a tight deadline.
+- **Active Participant**: Gained valuable experience in rapid development and teamwork through consistent participation in various hackathons.
 ---
 
 ## 📈 GitHub Performance Analytics
