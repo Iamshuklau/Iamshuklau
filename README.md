@@ -281,24 +281,6 @@ I specialize in building **AI-powered solutions** and **enterprise-grade web app
 - **Active Participant**: Gained valuable experience in rapid development and teamwork through consistent participation in various hackathons.
 ---
 
-## 📈 GitHub Performance Analytics
-
-<div align="center">
-
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamshuklau&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamshuklau&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshuklau&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iamshuklau&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Iamshuklau&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 🎓 Academic Excellence & Continuous Learning
 
 ### 📚 **Current Academic Standing**
