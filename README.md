@@ -400,12 +400,27 @@ I specialize in building **AI-powered solutions** and **enterprise-grade web app
 </div>
 
 ---
-
 <details>
-<summary><b>📊 Extended GitHub Metrics & Development Activity</b></summary>
+<summary><b>📊 GitHub Stats & Activity</b></summary>
+<br>
+<div align="center">
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamshuklau&theme=radical)
+<!-- 
+  - `?username=Iamshuklau` - Your GitHub username.
+  - `&theme=tokyonight` - A visually appealing dark theme.
+  - `&count_private=true` - Counts your contributions in private repositories.
+  - `&show_icons=true` - Shows icons next to stats.
+  - `&hide_border=true` - For a cleaner look.
+  - `&bg_color=0D1117` - Matches GitHub's dark mode background.
+  - `&cache_seconds=3600` - Suggests the cache be refreshed every hour (3600 seconds) to show newer data faster. 
+-->
 
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=Iamshuklau&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Utkarsh Shukla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamshuklau&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=3600)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamshuklau&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=3600)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamshuklau&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=3600)
+
+</div>
+<br>
 </details>
